@@ -1,3 +1,11 @@
+ca-certificates (20201027ubuntu0.18.04.1) bionic-security; urgency=medium
+
+  * mozilla/{certdata.txt,nssckbi.h}:
+    Update Mozilla certificate authority bundle to version 2.44.
+    (LP: #1900727)
+
+ -- Marc Deslauriers <marc.deslauriers@ubuntu.com>  Tue, 27 Oct 2020 07:37:00 -0400
+
 ca-certificates (20190110~18.04.1) bionic-security; urgency=medium
 
   * Update ca-certificates database to 20190110:
